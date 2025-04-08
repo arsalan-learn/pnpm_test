@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "sequelize": "6.19.0",
-    "serialize-javascript": "6.0.1",
+    "serialize-javascript": "6.0.2",
     "sqlite3": "^5.1.7"
   }
 }
